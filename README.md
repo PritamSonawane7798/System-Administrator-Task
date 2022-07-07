@@ -1,4 +1,4 @@
-# System-Administrator-Task
+# System-Administraror-Task
 
 ### Create new user with a non-interactive shell
 ```
